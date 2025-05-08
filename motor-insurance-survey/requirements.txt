@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+pyDOE2
+gspread
+oauth2client
+json
